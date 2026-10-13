@@ -1,0 +1,6 @@
+{
+  "name": "SkillSetu - Student & Industrial Workforce Platform",
+  "description": "Premium industrial career and upskilling bridge connecting students and industrial workers with local industry requirements. Developed by Thakur Yash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
